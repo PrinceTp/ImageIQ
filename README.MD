@@ -16,6 +16,10 @@ ImageIQ is a FastAPI-based application designed to leverage machine learning for
 - **Uvicorn**: An ASGI server for Python, used to run the FastAPI application.
 - **Pillow (PIL)**: Python Imaging Library, used for image processing tasks.
 
+##Video
+
+https://github.com/PrinceTp/ImageIQ/assets/104999853/14d5f08d-aec8-43ef-bcce-a05aca0140b8
+
 ## Getting Started
 
 Follow these instructions to set up the project locally for development and testing purposes.
