@@ -4,18 +4,9 @@ ImageIQ is a FastAPI-based application designed to leverage machine learning for
 
 ## Key Features
 
-- **FastAPI Framework**: Leverages the high performance and scalability of FastAPI.
-- **Machine Learning Integration**: Utilizes advanced machine learning models for comprehensive analysis of text and images.
-- **Docker Support**: Fully containerized using Docker to simplify deployment and ensure consistency across different environments.
-
-## Technologies Used
-
-- **FastAPI**: A modern, fast web framework for building APIs with Python 3.7+ based on standard Python type hints.
-- **Python**: The primary programming language used.
-- **Docker**: Used for containerizing the application to ensure easy deployment and consistent runtime environments across different systems.
-- **Uvicorn**: An ASGI server for Python, used to run the FastAPI application.
-- **Pillow (PIL)**: Python Imaging Library, used for image processing tasks.
-- **Machine Learning Libraries**: Integration of machine learning libraries such as PyTorch or TensorFlow (specific libraries should be detailed in project dependencies).
+- **FastAPI**: Utilizes FastAPI for high performance and easy scalability.
+- **Machine Learning Model**: Integrates a machine learning model to analyze text and images.
+- **Docker Support**: Containerized with Docker for easy deployment and consistent runtime environments.
 
 ## Getting Started
 
